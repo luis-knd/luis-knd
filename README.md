@@ -13,8 +13,8 @@
       📧 [luiscandelario41@gmail.com](mailto:luiscandelario41@gmail.com)<br />
       📱 <a href="tel:+34666220562">🇪🇸 666 22 0562</a>
 * 🚀  I'm currently working on [Verifarma International SL](http://https://verifarma.com/) as a technical leader
-* 🧠  I'm learning a little about Mobile develop, DevOps and Software Architecture
-* 🤝  I'm open to collaborating on Contractors projects and freelance interesting projects
+* 🧠  I'm learning about Mobile develop, DevOps and Software Architecture
+* 🤝  I'm open to collaborate on contractors projects and freelance interesting projects
 
 ## 👦🏻 About me:
 
